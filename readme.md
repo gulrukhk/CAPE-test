@@ -1,6 +1,6 @@
 # CAPE Pretraining on MIMIC ECG Dataset
 
-This repository contains a small working example demonstrating **CAPE** performance with a supervised training using the **PTB-XL** dataset. An MLP model is trained to predict age and sex for the BIDMC dataset. The MLP is tested on features from CODE15 and PTB-XL datasets.
+This repository contains a small working example demonstrating **CAPE** performance with supervised training for the **PTB-XL** dataset. MLP models trained to predict age and sex for features extracted from the BIDMC dataset. The MLP is tested on features from CODE15 and PTB-XL datasets.
 
 ---
 
