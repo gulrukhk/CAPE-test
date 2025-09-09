@@ -1,6 +1,9 @@
-# CAPE Pretraining on MIMIC ECG Dataset
+# CAPE Tests for External Validation of Trained Models
 
-This repository contains a small working example demonstrating **CAPE** performance with supervised training for the **PTB-XL** dataset. MLP models trained to predict age and sex for features extracted from the BIDMC dataset. The MLP is tested on features from CODE15 and PTB-XL datasets.
+This repository provides a minimal working example to evaluate the performance of **CAPE** on external validation datasets. MLP models are trained to predict age and sex using features extracted from the **BIDMC** dataset, and are evaluated on features from the **PTB-XL** and **CODE15** datasets. 
+
+Additionally, a notebook is included for training a model directly on **PTB-XL** features, demonstrating the performance of CAPE in a supervised setting.
+
 
 ---
 
