@@ -76,3 +76,4 @@ To run the notebooks, install the required Python packages:
 pip install -r requirements.txt
 
     It's recommended to use a virtual environment to avoid dependency conflicts.
+Extract data.zip to the data folder and feats.zip to the feats folder. Confirm that the directory structure is correct.
